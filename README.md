@@ -1,2 +1,2 @@
 # testgit
-Learn git/githup
+Learn git/github
